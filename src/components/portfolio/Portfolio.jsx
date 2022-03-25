@@ -20,21 +20,21 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Orion UI kit - Charts templates & infographics in Figma',
+    title: 'Orion UI kit - Charts data & infographics in Figma',
     github: "https://github.com",
     demo: 'https://dribbble.com/shots/17774034-Orion-UI-kit-Charts-templates-infographics-in-Figma',
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Orion UI kit - Charts templates & infographics in Figma',
+    title: 'Orion UI kit - Charts templates & data in Figma',
     github: "https://github.com",
     demo: 'https://dribbble.com/shots/17774049-Orion-UI-kit-Charts-templates-infographics-in-Figma',
   },
   {
     id: 4,
     image: IMG4,
-    title: 'https://dribbble.com/shots/17774049-Orion-UI-kit-Charts-templates-infographics-in-Figma',
+    title: 'Orion UI kit - Charts templates & dashboard in Figma',
     github: "https://github.com",
     demo: 'https://dribbble.com/shots/17774084-Orion-UI-kit-Charts-templates-infographics-in-Figma',
   },
@@ -48,7 +48,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Eclipse - Figma dashboard UI kit for data design web apps',
+    title: 'Eclipse - Figma dashboard UI kit for templates design web apps',
     github: "https://github.com",
     demo: 'https://dribbble.com/shots/17610570-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps',
   }
